@@ -5,16 +5,16 @@ Projet_Camera_PY est une application de vision par ordinateur minimaliste capabl
 ## 🚀 Fonctionnalités
 
 * **Détection Intelligente** :
-    * [cite_start]Reconnaissance en temps réel via le modèle **COCO-SSD**[cite: 22, 26].
-    * [cite_start]Identification de **90 objets** (personnes, véhicules, animaux...)[cite: 26, 73].
-    * [cite_start]Affichage du score de confiance et cadres de détection[cite: 30, 31].
+    * Reconnaissance en temps réel via le modèle **COCO-SSD**.
+    * Identification de **90 objets** (personnes, véhicules, animaux...).
+    * Affichage du score de confiance et cadres de détection.
 * **Zéro Installation** :
-    * [cite_start]**Aucune bibliothèque externe** requise (pas de pip install)[cite: 17, 25].
-    * [cite_start]Utilisation exclusive de la librairie standard Python[cite: 19, 25].
+    * **Aucune bibliothèque externe** requise (pas de pip install).
+    * Utilisation exclusive de la librairie standard Python.
 * **Architecture Légère** :
-    * [cite_start]Serveur HTTP local rapide (`http.server`)[cite: 20, 45].
-    * [cite_start]Inférence IA côté client (TensorFlow.js)[cite: 72].
-    * [cite_start]Fonctionne hors-ligne une fois chargé[cite: 36].
+    * Serveur HTTP local rapide (`http.server`).
+    * Inférence IA côté client (TensorFlow.js).
+    * Fonctionne hors-ligne une fois chargé.
 
 ## 📂 Structure du Projet
 
