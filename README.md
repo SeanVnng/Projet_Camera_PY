@@ -24,3 +24,5 @@ Le projet est conçu pour être simple et minimaliste :
 Projet_Camera_PY/
 ├── detec_ia.py          # Script principal (Serveur Python + Code HTML/JS)
 └── README.md            # Documentation
+
+Réalisé par Seann
