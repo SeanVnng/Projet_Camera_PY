@@ -25,3 +25,6 @@ Projet_Camera_PY/
 ├── detec_ia.py          # Script principal (Serveur + Interface)
 ├── README.md            # Documentation
 └── Rapport...pdf        # Documentation technique détaillée
+```
+
+Réalisé par Seann
