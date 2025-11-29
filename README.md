@@ -48,9 +48,9 @@ Le modèle est capable d'identifier **90 classes d'objets**, incluant:
 
 ## 👤 Auteur et Contexte
 
-* [cite_start]**Auteur** : Sean VAN NGOC[cite: 4].
-* [cite_start]**Contexte** : Projet réalisé entre Mars et Mai 2025 à l'Université Sorbonne Paris Nord (IUT Villetaneuse)[cite: 1, 5].
-* [cite_start]**Laboratoire** : IUTVLAB / Association ESP LABORATORY[cite: 9, 10].
+* **Auteur** : Sean VAN NGOC.
+* **Contexte** : Projet réalisé entre Mars et Mai 2025 à l'Université Sorbonne Paris Nord (IUT Villetaneuse).
+* **Laboratoire** : IUTVLAB / Association ESP LABORATORY.
 
 ---
-[cite_start]*Ce projet est une base pédagogique idéale pour illustrer le fonctionnement d'un pipeline IA léger et l'interaction client-serveur.* [cite: 76]
+[cite_start]*Ce projet est une base pédagogique idéale pour illustrer le fonctionnement d'un pipeline IA léger et l'interaction client-serveur.*
